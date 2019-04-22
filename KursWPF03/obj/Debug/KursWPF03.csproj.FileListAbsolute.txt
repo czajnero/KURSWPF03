@@ -1,0 +1,15 @@
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\bin\Debug\KursWPF03.exe.config
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\bin\Debug\KursWPF03.exe
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\bin\Debug\KursWPF03.pdb
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\KursWPF03.csprojAssemblyReference.cache
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\MainWindow.g.cs
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\App.g.cs
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\KursWPF03_MarkupCompile.cache
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\KursWPF03_MarkupCompile.lref
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\MainWindow.baml
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\KursWPF03.g.resources
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\KursWPF03.Properties.Resources.resources
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\KursWPF03.csproj.GenerateResource.cache
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\KursWPF03.csproj.CoreCompileInputs.cache
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\KursWPF03.exe
+C:\Users\Czajnero\source\repos\KursWPF03\KursWPF03\obj\Debug\KursWPF03.pdb
